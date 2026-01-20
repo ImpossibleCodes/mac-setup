@@ -1,5 +1,6 @@
 # Development apps
 brew install --cask visual-studio-code
+brew install --cask xquartz
 brew install --cask balenaetcher
 brew install openconnect
 brew install pyenv
