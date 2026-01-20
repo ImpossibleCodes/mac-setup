@@ -21,4 +21,5 @@ brew install ffmpeg
 # Social apps
 brew install --cask discord
 brew install --cask minecraft
+brew install --cask curseforge
 
